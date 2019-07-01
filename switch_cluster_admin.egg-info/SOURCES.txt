@@ -1,0 +1,8 @@
+setup.py
+switch_cluster.py
+switch_cluster_admin.egg-info/PKG-INFO
+switch_cluster_admin.egg-info/SOURCES.txt
+switch_cluster_admin.egg-info/dependency_links.txt
+switch_cluster_admin.egg-info/entry_points.txt
+switch_cluster_admin.egg-info/requires.txt
+switch_cluster_admin.egg-info/top_level.txt

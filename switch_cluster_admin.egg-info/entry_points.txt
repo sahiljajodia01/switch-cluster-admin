@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        switch-cluster=switch_cluster:cli
+    

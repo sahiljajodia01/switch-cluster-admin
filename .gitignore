@@ -2,4 +2,4 @@
 venv/
 __pycache__/
 .vscode/
-switch_cluster_admin.egg-info/
+clustercli.egg-info/

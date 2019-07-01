@@ -1,15 +1,15 @@
 from setuptools import setup
 
 setup(
-    name="switch-cluster-admin",
+    name="clustercli",
     version="0.1",
-    py_modules=["switch_cluster"],
+    py_modules=["cluster_cli"],
     install_requires=[
         "kubernetes",
         "Click",
     ],
     entry_points='''
         [console_scripts]
-        switch-cluster=switch_cluster:cli
+        clustercli=cluster_cli:cli
     ''',
 )
